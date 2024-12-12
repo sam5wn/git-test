@@ -1,0 +1,22 @@
+button{
+    display: flexbox;
+}
+#confirm{
+    background-color: green;
+    font: x-large;
+}
+.boldp{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.tboldp{
+    font-weight: bolder;
+}
+div{
+    font: small;
+    font-size: 25px;
+}
+div.child{
+    font-size: 12px;
+    font-weight: bolder;
+}

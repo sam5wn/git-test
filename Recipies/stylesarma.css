@@ -1,0 +1,14 @@
+body{
+    max-width: 700px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+.tarif{
+    background-color: burlywood;
+    margin: auto;
+
+}
+img, ul, h3, h2, ol{
+    margin-left: 160px;
+}
+

@@ -1,0 +1,16 @@
+.box1{
+    margin: 0 3em 0 3em;
+}
+
+/* Haut : 0 (pas d'espace au-dessus de l'élément).
+Droite : 3em (espace de 3 unités em à droite).
+Bas : 0 (pas d'espace en dessous).
+Gauche : 3em (espace de 3 unités em à gauche).   */
+
+
+/*.box1{
+    margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}*/

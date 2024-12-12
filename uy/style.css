@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+}
+ #baba{
+    display: flex;
+    background-color: green;
+ }
+ #cocuk{
+    width:10px;
+ }

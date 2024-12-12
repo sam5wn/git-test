@@ -1,0 +1,44 @@
+.panel{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    background-color: antiquewhite;
+    flex-wrap: wrap;
+    border-bottom: dotted;
+    
+
+}
+.left{
+    display: flex;
+    gap: 16px;
+    margin-right: auto;
+}
+.logo{
+    font-size: 32px;
+    font-style: italic;
+    color: blueviolet;
+    margin-top: 5px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 8px;
+}
+.right{
+    display: flex;
+    gap: 8px;
+    margin-left: auto;
+    align-items: center;
+}
+.not{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 13%;
+}
+.pp{
+    width: 48px;
+    height: 48px;
+    background-color: blueviolet;
+    border-radius: 50%;
+}

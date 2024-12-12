@@ -1,0 +1,25 @@
+.anaDiv{
+  display: flex;
+  justify-content: center;
+  gap: 250px;
+  background-color: bisque;
+}
+ul{
+  display: flex;
+  gap: 20px;
+
+}
+
+li{
+  background-color: azure;
+  color: blue;
+}
+
+.logo{
+  background-color: azure;
+  color: red;
+  flex: 1 1 auto;
+  height: 30px;
+  margin-top: 10px;
+  
+}

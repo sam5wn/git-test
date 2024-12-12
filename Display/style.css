@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+
+p,
+ul{
+    border: 2px solid purple;
+}
+
+span,
+li{
+    border: 2px solid blue;
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 0px;
+}
+
+.inline{
+    display: inline-block
+}
